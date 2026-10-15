@@ -1,0 +1,7 @@
+{
+  "name": "MyFitness",
+  "description": "All-in-one personal fitness and nutrition tracking app with AI food photo recognition, workout logger, calorie and macro targets, and progress analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
